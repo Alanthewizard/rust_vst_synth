@@ -1,4 +1,14 @@
-# rust_vst_synth
+# Group Name
+
+Rust VST Synth
+
+## Group Members
+
+| Name | NetID |
+| --- | --- |
+| Ross Kimme | rkimme2 |
+| Alan |  |
+
 rust vst synth written for cs128 honors
 Week 1: Midi input and sound output for sine wave
 Week 2: Functionality for the other basic waves, saw, square, etc... Maybe customizable wavetables
