@@ -7,7 +7,7 @@ Rust VST Synth
 | Name | NetID |
 | --- | --- |
 | Ross Kimme | rkimme2 |
-| Alan |  |
+| Alan | alanzz2 |
 
 ## Project Introduction
 
