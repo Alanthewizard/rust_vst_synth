@@ -9,6 +9,32 @@ Rust VST Synth
 | Ross Kimme | rkimme2 |
 | Alan |  |
 
+## Project Introduction
+
+### Project Description
+
+### Goals and Objectives
+
+### Motivation
+
+## Technical Overview
+
+### Major Components
+
+### Implementation Roadmap
+
+### Checkpoint Goals
+
+| Checkpoint | Planned Deliverables |
+| --- | --- |
+| Checkpoint 1 |  |
+| Checkpoint 2 |  |
+| Checkpoint 3 |  |
+
+## Possible Challenges
+
+## References
+
 rust vst synth written for cs128 honors
 Week 1: Midi input and sound output for sine wave, VST functionality, maybe envolopes
 Week 2: Functionality for the other basic waves, saw, square, envelopes and filters etc... Maybe customizable wavetables, 
