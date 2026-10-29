@@ -34,5 +34,9 @@ Rust VST Synth
 
 ## Possible Challenges
 
+- Getting familiar with crates like nih_plug, fundsp, and egui, understanding their APIs, and figuring out how to use them together.
+- Learning how to generate sound using oscillators, waveforms, frequencies, and envelopes.
+- Making GUI for drawing custom waveform, then generating that sound. 
+
 ## References
 
