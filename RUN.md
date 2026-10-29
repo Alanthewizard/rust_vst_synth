@@ -1,0 +1,2 @@
+Please list all the required steps to run your project. 
+This should start with git clone and (probably, but it depends on your project) end with cargo run. Often, these two commands are sufficient. Before submission, make sure this works! Clone your project, step through the RUN.md, and make sure it all works
