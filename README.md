@@ -10,7 +10,7 @@ Rust VST Synth
 | Alan | alanzz2 |
 
 ## Project Introduction
-
+  The project will be a VST Synthesizer programmed in rust. Features planned to be included are Midi functionality, LFO controls and effects, Customizable wavetables where you draw 2+ shapes and the synthesizer interpolates between them, 
 ### Project Description
 
 ### Goals and Objectives
